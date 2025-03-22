@@ -42,3 +42,25 @@ spec:
     message ExampleMessage {
       string example = 1;
     };
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-bitbucket
+  title: Memebootplus V2
+  description: "Test service in Nucleus V2 Framework"
+  annotations:
+    jira/project-key: DEVPLTF
+    backstage.io/techdocs-ref: dir:./sub
+    goto.com/team: Nucleus
+    goto.com/project: NucleusV2
+    
+    
+  tags:
+    - ucc-nucleus
+spec:
+  type: service
+  owner: nucleus-dev
+  lifecycle: experimental
+
+---
