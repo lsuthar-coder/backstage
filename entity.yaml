@@ -26,7 +26,7 @@ spec:
 ---
 # https://backstage.io/docs/features/software-catalog/descriptor-format#kind-api
 apiVersion: backstage.io/v1alpha1
-kind: API
+kind: Component
 metadata:
   name: example-grpc-api
   annotations:
@@ -35,7 +35,7 @@ metadata:
     feedback/host: 'https://jira.ops.expertcity.com'
     jira/project-key: 'DS'
 spec:
-  type: grpc
+  type: service
   lifecycle: experimental
   owner: guests
   system: examples
