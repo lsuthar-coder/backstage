@@ -13,8 +13,10 @@ kind: Component
 metadata:
   name: example-website
   annotations:
-    feedback/type: 'MAIL'
+    feedback/type: 'JIRA'
     feedback/email-to: 'Leeladhar.suthar@goto.com'
+    feedback/host: 'https://jira.ops.expertcity.com'
+    jira/project-key: 'DX'
 spec:
   type: website
   lifecycle: experimental
