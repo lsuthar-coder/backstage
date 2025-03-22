@@ -29,6 +29,11 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: example-grpc-api
+  annotations:
+    feedback/type: 'JIRA'
+    feedback/email-to: 'Leeladhar.suthar@goto.com'
+    feedback/host: 'https://jira.ops.expertcity.com'
+    jira/project-key: 'DS'
 spec:
   type: grpc
   lifecycle: experimental
