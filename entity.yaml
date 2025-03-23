@@ -16,7 +16,7 @@ metadata:
     feedback/type: 'JIRA'
     feedback/email-to: 'Leeladhar.suthar@goto.com'
     feedback/host: 'https://jira.ops.expertcity.com'
-    jira/project-key: 'DX'
+    jira/project-key: 'DEVPLTF'
 spec:
   type: website
   lifecycle: experimental
