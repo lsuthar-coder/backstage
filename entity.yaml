@@ -15,7 +15,7 @@ metadata:
   annotations:
     feedback/type: 'JIRA'
     feedback/email-to: 'Leeladhar.suthar@goto.com'
-    feedback/host: 'https://jira.ops.expertcity.com'
+    feedback/host: 'https://jirauat.ops.expertcity.com'
     jira/project-key: 'DX'
 spec:
   type: website
@@ -32,7 +32,7 @@ metadata:
   annotations:
     feedback/type: 'JIRA'
     feedback/email-to: 'Leeladhar.suthar@goto.com'
-    feedback/host: 'https://jira.ops.expertcity.com'
+    feedback/host: 'https://jirauat.ops.expertcity.com'
     jira/project-key: 'DS'
 spec:
   type: service
