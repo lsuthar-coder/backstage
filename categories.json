@@ -1,0 +1,70 @@
+{
+  "General Feedback and Suggestions": [
+    "Overall Satisfaction",
+    "Areas for Improvement",
+    "Positive Feedback",
+    "Community and Forum Engagement"
+  ],
+  "FAQ's, Content, and Documentation": [
+    "Inaccurate Information",
+    "Missing Documentation",
+    "Outdated Content",
+    "FAQ's and Help Articles",
+    "Video Tutorials and Walkthroughs",
+    "Difficult to Understand Guides"
+  ],
+  "User Experience": [
+    "Navigation Issue",
+    "UI Design and Accessibility",
+    "Performance and Speed",
+    "Mobile Responsiveness",
+    "Dark Mode and Theme Options"
+  ],
+  "Functional Issues": [
+    "Bugs and Errors",
+    "Feature Malfunction",
+    "Integration Issue",
+    "Broken Links",
+    "UI Glitches",
+    "Security and Auth"
+  ],
+  "Feature Request": [
+    "New Functionality",
+    "Enhancement to Existing Feature",
+    "Customization Request",
+    "Removal of Unnecessary Feature",
+    "Third Party Integration",
+    "Automation and AI Enhancement"
+  ],
+  "Access and Permission": [
+    "Role-based Access Issues",
+    "Restricted Feature Access",
+    "Login and Auth Problems",
+    "MFA Issues",
+    "Session Expiry and Auto-Logout"
+  ],
+  "Communication and Notification": [
+    "Delayed Notification",
+    "Missing Email Alerts",
+    "Unnecessary Pop-ups"
+  ],
+  "Integration and APIs": [
+    "Third Party API Failure",
+    "Web-hook Not Triggering",
+    "Data Mismatches in Integration",
+    "API Rate Limit and Throttling",
+    "SDK and Plugin Issues"
+  ],
+  "Performance and Reliability": [
+    "Slow Load Time",
+    "Downtime and Outages",
+    "Server and API Issues",
+    "High CPU/Memory Usage",
+    "Data Sync and Storage Problems"
+  ],
+  "Support": [
+    "Issues with Support Channels",
+    "QoS",
+    "Suggestions for Improving Support"
+  ]
+}
